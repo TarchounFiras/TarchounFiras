@@ -100,6 +100,7 @@ Lightweight organizational member management API with role-based auth (Admin/Use
 
 - 🧠 **Fundamentals of Deep Learning** — NVIDIA
 - 🤖 **Associate AI Engineer for developers** — DataCamp
+- ☁ **Cloud Foundations** — AWS Academy
 
 ---
 
