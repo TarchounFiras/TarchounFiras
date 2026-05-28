@@ -3,7 +3,7 @@
 # Hey, I'm Firas 👋
 
 **Fullstack Developer** · Monastir, Tunisia  
-I build real things with real people — SaaS and systems that actually work as Real world solutions.
+I build real things with real people — SaaS and systems that actually work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-firas-tarchoun-3590472b5/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=globe&logoColor=white)](https://github.com/TarchounFiras)
@@ -58,7 +58,9 @@ I'm at my best in a room full of people — whiteboards, debates, pull requests 
 ### 🍽️ Kweekserv — Restaurant Management PWA
 *React · TypeScript · Supabase · WebSockets · 2025*
 
-A real-time restaurant management system built as a cross-platform PWA. Handles order tracking, table management, and menu administration with a live cashier dashboard and push notifications across Windows, macOS, iOS, and Android.
+A real-time restaurant management system built as a cross-platform PWA. Handles order tracking, table management, and menu administration with a live cashier dashboard and push notifications across WiFi/mobile.
+
+[Project Link](https://www.kweekserv.com/)
 
 ---
 
@@ -67,12 +69,16 @@ A real-time restaurant management system built as a cross-platform PWA. Handles 
 
 Web and PWA attendance platform using **facial recognition** and **GPS geolocation** for employee check-in/out. Includes an admin dashboard with full attendance tracking and geographic validation.
 
+[Project Link](https://smartpoint-zeta.vercel.app/)
+
 ---
 
 ### 🎬 Filmmaker Portfolio Platform
 *Next.js · Supabase · Cloudflare R2 · 2026*
 
 A dynamic portfolio site with admin-controlled video/project pages, category management, and signed Cloudflare R2 storage for secure video and thumbnail uploads.
+
+[Project Link](https://saiftarchoun.com/)
 
 ---
 
@@ -96,8 +102,10 @@ Lightweight organizational member management API with role-based auth (Admin/Use
 - 🤖 **Associate AI Engineer** — DataCamp
 
 ---
-<div align="center" >
-*Let's build something together — not just code, but ideas worth shipping.*  <br>
+
+<div align="center">
+
+*Let's build something together — not just code, but ideas worth shipping.*  
 📬 tarchounmedfiras@gmail.com
 
 </div>
