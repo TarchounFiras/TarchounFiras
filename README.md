@@ -101,8 +101,7 @@ Lightweight organizational member management API with role-based auth (Admin/Use
 
 <div align="center">
 
-![Firas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarchounFiras&show_icons=true&theme=default&hide_border=true&count_private=true)
-
+[![Firas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarchounFiras)](https://github.com/TarchounFiras/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarchounFiras&layout=compact&theme=default&hide_border=true)
 
 </div>
