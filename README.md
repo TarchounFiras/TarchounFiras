@@ -5,7 +5,7 @@
 **Fullstack Developer** · Monastir, Tunisia  
 I build real things with real people — SaaS and systems that actually work.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mohamed-Firas-Tarchoun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-firas-tarchoun-3590472b5/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=globe&logoColor=white)](https://github.com/TarchounFiras)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tarchounmedfiras@gmail.com)
 
