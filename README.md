@@ -99,7 +99,7 @@ Lightweight organizational member management API with role-based auth (Admin/Use
 ## Certifications
 
 - 🧠 **Fundamentals of Deep Learning** — NVIDIA
-- 🤖 **Associate AI Engineer** — DataCamp
+- 🤖 **Associate AI Engineer for developers** — DataCamp
 
 ---
 
