@@ -96,7 +96,7 @@ Lightweight organizational member management API with role-based auth (Admin/Use
 - 🤖 **Associate AI Engineer** — DataCamp
 
 ---
-
+<div align="center" >
 *Let's build something together — not just code, but ideas worth shipping.*  
 📬 tarchounmedfiras@gmail.com
 
