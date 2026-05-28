@@ -97,7 +97,7 @@ Lightweight organizational member management API with role-based auth (Admin/Use
 
 ---
 <div align="center" >
-*Let's build something together — not just code, but ideas worth shipping.*  
+*Let's build something together — not just code, but ideas worth shipping.*  <br>
 📬 tarchounmedfiras@gmail.com
 
 </div>
