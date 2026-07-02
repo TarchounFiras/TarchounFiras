@@ -69,7 +69,7 @@ A real-time restaurant management system built as a cross-platform PWA. Handles 
 
 Web and PWA attendance platform using **facial recognition** and **GPS geolocation** for employee check-in/out. Includes an admin dashboard with full attendance tracking and geographic validation.
 
-[Project Link](https://smartpoint-zeta.vercel.app/)
+[Project Link](https://smartpoint-attendance.vercel.app/)
 
 ---
 
